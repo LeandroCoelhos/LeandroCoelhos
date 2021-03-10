@@ -4,10 +4,10 @@
 
 ##Quem eu sou?
 
-- :man_technologist: Eu sou Ciêntista de Dados
+- :man_technologist: Ciêntista de Dados
 - :books: Pesquisador
-- :computer: Formado em Análise e Desenvolvimento de Sistemas -IFSP-
-- :mortar_board: :1234: Estudante de Matemática Aplicada -IME/USP-
+- :mortar_board:  Formado em Análise e Desenvolvimento de Sistemas -IFSP-
+- :1234: Estudante de Matemática Aplicada -IME/USP-
 
 ##Habilidades
  - :snake: Python.
