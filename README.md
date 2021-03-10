@@ -1,16 +1,28 @@
-### Hi there 👋
+# **Olá, eu sou Leandro** 👋 :man_technologist:
+###
 
-<!--
-**LeandroCoelhos/LeandroCoelhos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+##Quem eu sou?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Eu sou Ciêntista de Dados
+-  Pesquisador
+- 🤔 Formado em Análise e Desenvolvimento de Sistemas -IFSP-
+- 📫 Estudante de Matemática Aplicada -IME/USP-
+
+##Habilidades
+ -Python.
+ -R.
+ -SQL.
+ -Power BI.
+ -Machine Learning.
+ -Redes Neurais Multi-Layer Perceptron.
+ 
+ ##Me ache ao redor do mundo
+  *[Instagran](link)
+  *[Linkedin](link)
+  
+ ##Meus Projetos
+  *[Iniciação]()
+  *[E-Comerce]()
+  *[Bitcoin]()
+
