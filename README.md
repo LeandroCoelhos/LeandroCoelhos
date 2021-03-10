@@ -10,16 +10,15 @@
 - 📫 Estudante de Matemática Aplicada -IME/USP-
 
 ##Habilidades
- -Python.
- -R.
- -SQL.
- -Power BI.
- -Machine Learning.
- -Redes Neurais Multi-Layer Perceptron.
+ - Python.
+ - R.
+ - SQL.
+ - Power BI.
+ - Machine Learning.
+ - Redes Neurais Multi-Layer Perceptron.
  
  ##Me ache ao redor do mundo
-  *[Instagran](link)
-  *[Linkedin](link)
+  *[Linkedin](https://www.linkedin.com/in/leandro-coelhos/)
   
  ##Meus Projetos
   *[Iniciação]()
