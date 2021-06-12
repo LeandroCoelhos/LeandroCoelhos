@@ -6,8 +6,8 @@
 - :man_technologist: Ciêntista de Dados
 - :books: Curioso por natureza
 - :sparkles: Astrônomo amador
-- :mortar_board:  Análise e Desenvolvimento de Sistemas -IFSP
-- :1234: Estudante de Matemática Aplicada e Computacional -IME/USP
+- :mortar_board:  Análise e Desenvolvimento de Sistemas - IFSP
+- :1234: Estudante de Matemática Aplicada e Computacional - IME/USP
 
 <h2 align="left"> Habilidades :clock3:</h2>
 
