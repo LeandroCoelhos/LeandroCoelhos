@@ -22,7 +22,7 @@
  - [Desafio Flai](https://github.com/LeandroCoelhos/desafio_flai)
   
  
- <h2 align="left"> Me ache ao redor do mundo  :airplane:</h2>
+ <h2 align="left"> Contato  :airplane:</h2>
 
   - [Linkedin](https://www.linkedin.com/in/leandro-coelhos/)
   
