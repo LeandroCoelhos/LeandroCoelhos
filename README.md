@@ -19,7 +19,7 @@
 
 <h2 align="left"> Projetos :door:</h2>
 
- - [Machine Learning aplicada a uma Campanha de Marketing](https://github.com/LeandroCoelhos/desafio_flai/)
+ - [ML em Campanha de Marketing](https://github.com/LeandroCoelhos/desafio_flai/)
   
  
  <h2 align="left"> Contato  :airplane:</h2>
