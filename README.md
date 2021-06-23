@@ -19,7 +19,7 @@
 
 <h2 align="left"> Meus Projetos :door:</h2>
 
- - [ML em Campanha de Marketing](https://github.com/LeandroCoelhos/desafio_flai/)
+ - [Modelo de Classificação em Campanha de Marketing](https://github.com/LeandroCoelhos/desafio_flai/)
   
  
  <h2 align="left"> Contato  :airplane:</h2>
