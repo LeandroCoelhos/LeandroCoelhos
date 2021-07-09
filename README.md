@@ -23,7 +23,7 @@
  - [Gestão Financeira Cartão de Crétido - Power BI](https://app.powerbi.com/view?r=eyJrIjoiNmExNTg1YTMtMzZmNS00Mzc5LWE0NjUtNzBiZmNjZTc5NDNiIiwidCI6IjdlOTNlMjg2LWIyOWEtNDQ1NC1hNDFhLWU4NDE5ZWM5ZGViNSJ9)
   
  
- <h2 align="left"> Contato  :airplane:</h2>
+ <h2 align="left">Contato  :airplane:</h2>
 
   - [Linkedin](https://www.linkedin.com/in/leandro-coelhos/)
   
