@@ -19,7 +19,7 @@
 
 <h2 align="left"> Meus Projetos :door:</h2>
 
- - [Modelo de Classificação em Campanha de Marketing](https://github.com/LeandroCoelhos/desafio_flai/) - 
+ - [Modelo de Classificação em Campanha de Marketing](https://github.com/LeandroCoelhos/desafio_flai/)
  - [Credit Score de Clientes de Telecomunicações](https://github.com/LeandroCoelhos/credit_score)
  - [Gestão Financeira Cartão de Crétido - Power BI](https://app.powerbi.com/view?r=eyJrIjoiNmExNTg1YTMtMzZmNS00Mzc5LWE0NjUtNzBiZmNjZTc5NDNiIiwidCI6IjdlOTNlMjg2LWIyOWEtNDQ1NC1hNDFhLWU4NDE5ZWM5ZGViNSJ9)
   
